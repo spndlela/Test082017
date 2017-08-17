@@ -1,0 +1,9 @@
+C:\Project\ReadCSVFile\ReadCSVFile_UnitTest\bin\Debug\ReadCSVFile_UnitTest.dll
+C:\Project\ReadCSVFile\ReadCSVFile_UnitTest\bin\Debug\ReadCSVFile_UnitTest.pdb
+C:\Project\ReadCSVFile\ReadCSVFile_UnitTest\bin\Debug\CsvHelper.dll
+C:\Project\ReadCSVFile\ReadCSVFile_UnitTest\bin\Debug\ReadCSVFile.exe
+C:\Project\ReadCSVFile\ReadCSVFile_UnitTest\bin\Debug\ReadCSVFile.pdb
+C:\Project\ReadCSVFile\ReadCSVFile_UnitTest\bin\Debug\CsvHelper.xml
+C:\Project\ReadCSVFile\ReadCSVFile_UnitTest\obj\Debug\Outsurance.FileHander_UnitTest.csprojResolveAssemblyReference.cache
+C:\Project\ReadCSVFile\ReadCSVFile_UnitTest\obj\Debug\ReadCSVFile_UnitTest.dll
+C:\Project\ReadCSVFile\ReadCSVFile_UnitTest\obj\Debug\ReadCSVFile_UnitTest.pdb

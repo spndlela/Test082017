@@ -1,0 +1,8 @@
+C:\Project\ReadCSVFile\ReadCSVFile\bin\Debug\ReadCSVFile.exe.config
+C:\Project\ReadCSVFile\ReadCSVFile\bin\Debug\ReadCSVFile.exe
+C:\Project\ReadCSVFile\ReadCSVFile\bin\Debug\ReadCSVFile.pdb
+C:\Project\ReadCSVFile\ReadCSVFile\bin\Debug\CsvHelper.dll
+C:\Project\ReadCSVFile\ReadCSVFile\bin\Debug\CsvHelper.xml
+C:\Project\ReadCSVFile\ReadCSVFile\obj\Debug\ReadCSVFile.exe
+C:\Project\ReadCSVFile\ReadCSVFile\obj\Debug\ReadCSVFile.pdb
+C:\Project\ReadCSVFile\ReadCSVFile\obj\Debug\OutsuranceFile.FileHandler.csprojResolveAssemblyReference.cache
